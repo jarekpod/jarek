@@ -7,7 +7,7 @@ body {
 }
 .container {
 	margin: 0 auto;
-	max-width: 700px;
+	max-width: 600px;
 	background-color: #FFF;
 	}
 header {
@@ -20,6 +20,7 @@ h1 {
 	text-size: 48px;
 	color: #d3d3d3;
 	font-family: Oswald, sans-serif;
+	text-align: center;
 	}
 header p, header h1 {
     text-align: center;
@@ -44,4 +45,11 @@ footer a {
 
 h2 {
 	 font-family: Oswald, sans-serif;
+}
+.about {
+	width: 350px;
+    font-size: 13px;
+    font-family: Tahoma;
+    line-height: 15px;
+    text-align: center;
 }
